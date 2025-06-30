@@ -1,0 +1,17 @@
+*{Body {
+  Font-Family: Sans-Serif;
+  text-align: Center;
+  Padding: 40px;
+  Background-color: #f0F8FF;
+}
+
+Input {
+  Padding: 8px;
+  Margin: 10px;
+  Width: 200px;
+
+}
+button {
+  Padding: 8px 12px;
+  Cursor: Indicator;
+}}
