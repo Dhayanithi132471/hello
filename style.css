@@ -2,7 +2,7 @@
   Font-Family: Sans-Serif;
   text-align: Center;
   Padding: 40px;
-  Background-color: #f0F8FF;
+  Background-color: #157cd6;
 }
 
 Input {
@@ -14,4 +14,6 @@ Input {
 button {
   Padding: 8px 12px;
   Cursor: Indicator;
+  color:white;
+  background-color: black;
 }}
